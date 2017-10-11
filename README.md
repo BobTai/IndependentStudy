@@ -7,7 +7,7 @@
 - 繪圖軟體：Illustrator、Photoshop
 - 伺服器：Apache Tomcat
 - 資料庫：Mysql
-- 程式語言：JSP、JavaScript、CSS
+- 程式語言：JSP、HTML、CSS、JavaScript
 
 ## 負責工作
 - 系統文件撰寫：使用個案圖、流程圖、活動圖
