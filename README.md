@@ -56,4 +56,4 @@
 #### 會員中心-修改資料
 ![member5](https://raw.githubusercontent.com/bobtai/independentstudy/master/Images/member5.png)
 
-更多可參考 [專題規格書](https://github.com/bobtai/independentstudy/blob/master/%E5%B0%88%E9%A1%8C%E8%A6%8F%E6%A0%BC%E6%9B%B8.pdf) p143~p198
+更多系統畫面可參考 [專題規格書](https://github.com/bobtai/independentstudy/blob/master/%E5%B0%88%E9%A1%8C%E8%A6%8F%E6%A0%BC%E6%9B%B8.pdf) p143~p198
